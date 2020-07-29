@@ -4,5 +4,12 @@
 			"id": "oid-12340",
 			"name": "Organization 1"
 		}
+	],
+	"projetcts": [
+		{
+			"id": "pid-12340",
+			"orgId": "oid-12340",
+			"name": "Projet 1"
+		}
 	]
 }
