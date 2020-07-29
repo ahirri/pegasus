@@ -11,5 +11,42 @@
 			"orgId": "oid-12340",
 			"name": "Projet 1"
 		}
+	],
+	"applications": [
+		{
+			"id": "aid-12340",
+			"projectId": "pid-12340",
+			"name": "Application 1"
+		}
+	],
+	"items": [
+		{
+			"id": "uid-12340",
+			"applicationId": "aid-12340",
+			"firstName": "Amine",
+			"lastName": "HIRRI",
+			"email": "ahirri@yopmail.com"
+		},
+		{
+			"id": "uid-12340",
+			"applicationId": "aid-12340",
+			"firstName": "Hicham",
+			"lastName": "HIRRI",
+			"email": "hhirri@yopmail.com"
+		},
+		{
+			"id": "uid-12340",
+			"applicationId": "aid-12340",
+			"firstName": "Mathiew",
+			"lastName": "Lemaire",
+			"email": "mlemaire@yopmail.com"
+		},
+		{
+			"id": "uid-12340",
+			"applicationId": "aid-12340",
+			"firstName": "Carol",
+			"lastName": "Deville",
+			"email": "cdevil@yopmail.com"
+		}
 	]
 }
